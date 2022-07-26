@@ -6,7 +6,7 @@ interface IUser {
     email: string
     address: {
         street: string
-        suite: string
+         suite: string
         city: string
         zipcode: number
         geo: {
